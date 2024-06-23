@@ -47,8 +47,8 @@ technical_background:
     "Intern - Mobile Developer B2B and B2C",
   ]
   
-currently_learning: ["Next.js, TypeScript, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+currently_learning: ["Next.js and TypeScript"]
+2024 Goals: ["Create 5+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Guitar", "Art", "Singing"]
 ```
   
